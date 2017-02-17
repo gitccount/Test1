@@ -8,6 +8,7 @@ public class MainActivity extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+		//跟新11.22
 		//分支更新了
 		//10:38的天路
 		//这是一条神奇的天路
